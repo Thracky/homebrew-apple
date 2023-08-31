@@ -2,6 +2,8 @@ This repo has some additions that allow the BG3 launcher to work properly, mainl
 
 With Game Porting Toolkit beta 4, this will now allow you to run BG3 from steam, with no fancy tricks. This means cloud and cross-platform saves will work.
 
+Any other current method of running BG3 means you are either not actually using GPTK/D3DMetal (because you've used CXPatcher or Whisky + DXVA or something of that nature) or you have no cloud/cross platform saves because you have to launch bg3_dx11 directly.
+
 # Apple Homebrew Tap
 
 This repository contains formulae for use with Homebrew: https://brew.sh
